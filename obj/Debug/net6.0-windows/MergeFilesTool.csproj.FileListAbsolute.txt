@@ -1,0 +1,17 @@
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Debug\net6.0-windows\MergeFilesTool.exe
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Debug\net6.0-windows\MergeFilesTool.deps.json
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Debug\net6.0-windows\MergeFilesTool.runtimeconfig.json
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Debug\net6.0-windows\MergeFilesTool.dll
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Debug\net6.0-windows\MergeFilesTool.pdb
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.FromMergeStringFile.resources
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.Properties.Resources.resources
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.csproj.GenerateResource.cache
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.AssemblyInfoInputs.cache
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.AssemblyInfo.cs
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.csproj.CoreCompileInputs.cache
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.dll
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\refint\MergeFilesTool.dll
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.pdb
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\MergeFilesTool.genruntimeconfig.cache
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\obj\Debug\net6.0-windows\ref\MergeFilesTool.dll

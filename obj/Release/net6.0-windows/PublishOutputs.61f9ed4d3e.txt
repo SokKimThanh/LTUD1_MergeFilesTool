@@ -1,0 +1,5 @@
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Release\net6.0-windows\publish\MergeFilesTool.exe
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Release\net6.0-windows\publish\MergeFilesTool.dll
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Release\net6.0-windows\publish\MergeFilesTool.deps.json
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Release\net6.0-windows\publish\MergeFilesTool.runtimeconfig.json
+F:\TDC_HK3\LTUD1_LETHO\MergeFilesTool\bin\Release\net6.0-windows\publish\MergeFilesTool.pdb
